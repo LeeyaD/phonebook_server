@@ -1,0 +1,12 @@
+node_modules/
+Dockerfile
+.dockerignore
+.env
+.DS_Store
+fly.toml
+.git
+requests/
+mongo.js
+.env
+.eslintrc.js
+.eslintignore
